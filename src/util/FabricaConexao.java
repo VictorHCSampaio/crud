@@ -16,7 +16,7 @@ import java.sql.SQLException;
 public class FabricaConexao {
     //dados para a conexao do banco
     private static final String USUARIO = "root";
-    private static final String SENHA = "Victor2d";
+    private static final String SENHA = "";
     private static final String BANCO = "dbloja";
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
     private static final String STRINGCONEXAO = "jdbc:mysql://localhost:3306/";
